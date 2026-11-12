@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-13 13 330 330" role="img" aria-label="CoUnity Data mark">
+  <g transform="translate(161 169) rotate(45)" fill="none" stroke-linecap="round" stroke-width="30">
+    <path stroke="#D8C0C8" d="M-150 -16V0A150 150 0 0 0 23.5 148.1"/>
+    <path stroke="#D8C0C8" d="M98.4 113.2A150 150 0 0 0 150 0V-20"/>
+    <path stroke="#A088A8" d="M-100 -80V0A100 100 0 0 0 -86 51"/>
+    <path stroke="#A088A8" d="M-34 94A100 100 0 0 0 100 0V-80"/>
+    <path stroke="#685880" d="M-50 -94V0A50 50 0 0 0 50 0"/>
+    <path stroke="#685880" d="M50 -78V-101"/>
+    <path stroke="#383058" d="M0 -15V-108"/>
+  </g>
+</svg>
